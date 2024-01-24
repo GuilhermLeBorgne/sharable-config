@@ -1,2 +1,2 @@
-# sharable-config
+# shareable-config
 Sharable config for typescript
